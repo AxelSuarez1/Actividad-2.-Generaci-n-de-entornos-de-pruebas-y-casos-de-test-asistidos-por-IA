@@ -2,4 +2,5 @@
 - app.py: aplicación principal
 - tests/: pruebas automatizadas
 - test_requirements.txt: dependencias de test
+# Ejecución
 Para la ejecución del proyecto es necesario ejecutar primero "pip install -r test_requirements.txt" y de ahi se pueden ejecutar todas las pruebas mediante "python -m pytest -v"
