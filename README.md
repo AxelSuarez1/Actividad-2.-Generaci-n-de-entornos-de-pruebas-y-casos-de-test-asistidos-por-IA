@@ -1,4 +1,4 @@
-#Estructura del proyecto:
+# Estructura del proyecto:
 - app.py: aplicación principal
 - tests/: pruebas automatizadas
 - test_requirements.txt: dependencias de test
